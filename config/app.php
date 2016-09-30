@@ -150,12 +150,11 @@ return [
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
 
-        Overtrue\LaravelWechat\ServiceProvider::class,
 
         /*
          * Package Service Providers...
          */
-
+        Overtrue\LaravelWechat\ServiceProvider::class,
 
         /*
          * Application Service Providers...
